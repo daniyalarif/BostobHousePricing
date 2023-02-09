@@ -25,8 +25,4 @@ Activate Virtual Environment
 venv/Scripts/Activate.ps1
 ```
 
-<<<<<<< HEAD
 Inspiration: https://www.youtube.com/watch?v=MJ1vWb1rGwM 
-=======
-Source: https://www.youtube.com/watch?v=MJ1vWb1rGwM
->>>>>>> 2f6162fcedf57ef647582e4a44376feb42f58a70
