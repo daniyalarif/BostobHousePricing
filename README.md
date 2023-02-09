@@ -24,3 +24,5 @@ Activate Virtual Environment
 ```
 venv/Scripts/Activate.ps1
 ```
+
+Source: https://www.youtube.com/watch?v=MJ1vWb1rGwM
