@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ### Boston House Pricing
 
 *Software and Tools Requirements*
@@ -25,6 +24,3 @@ Activate Virtual Environment
 ```
 venv/Scripts/Activate.ps1
 ```
-=======
-# BostonHousePricing
->>>>>>> dd134fb7619b66e84796a86bb28f7ba279c81c44
